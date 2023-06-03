@@ -1,0 +1,1 @@
+Projeto para estudar sobre Git e GitHub.
