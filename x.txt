@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Olá mundo tesde
 de
 diff
+=======
+Olá mundo
+>>>>>>> f5a5bc3425368b47186f67959f0f796cf6dfccbe
